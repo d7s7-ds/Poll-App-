@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QuickPoll — Fullstack Polling Application
 
 A modern, full-stack polling application built with React + Vite frontend and Node.js/Express + SQLite backend. Create polls, vote, and see live results in real-time.
@@ -218,3 +219,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **QuickPoll** - Create, Share, and Vote on Polls in Real-time! 🗳️
+=======
+# Poll-App-
+Poll-App 
+>>>>>>> 6b152638205ad516ec3bf452ab3c2fe50807ae0f
